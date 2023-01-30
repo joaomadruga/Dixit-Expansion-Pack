@@ -6,6 +6,5 @@ Um projeto para a disciplina de criatividade computacional que visa, por meio da
 
 ## Screenshots
 
-![App Screenshot](https://github.com/joaomadruga/dixit_expansion/blob/main/images/DALL%C2%B7E%202023-01-23%2018.29.33%20-%20daisy,%20flower,%20dreamy%20art.png?raw=true)
 
-![Test Image 3](/images/DALL·E 2023-01-23 18.29.33 - daisy, flower, dreamy art.png)
+![An dreamy art representation of the emotion sadness](/images/an_dreamy_art_representation_of_the_emotion_sadness_with_3ed4eece-4f7b-427b-9b19-051020bc43ba.png)
