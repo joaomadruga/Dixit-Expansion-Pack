@@ -6,5 +6,6 @@ Um projeto para a disciplina de criatividade computacional que visa, por meio da
 
 ## Screenshots
 
-
-![An dreamy art representation of the emotion sadness](/images/an_dreamy_art_representation_of_the_emotion_sadness_with_3ed4eece-4f7b-427b-9b19-051020bc43ba.png)
+An dreamy art representation of the emotion sadness             |  An dreamy art representation of the emotion sadness             |  An dreamy art representation of the emotion sadness 
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/images/an_dreamy_art_representation_of_the_emotion_sadness_with_3ed4eece-4f7b-427b-9b19-051020bc43ba.png)  |  ![](/images/an_dreamy_art_representation_of_the_emotion_sadness_with_3ed4eece-4f7b-427b-9b19-051020bc43ba.png)  |  ![](/images/an_dreamy_art_representation_of_the_emotion_sadness_with_3ed4eece-4f7b-427b-9b19-051020bc43ba.png)
