@@ -10,9 +10,9 @@ Um projeto para a disciplina de Criatividade Computacional (IF866) que visa, por
 
 ## Galeria
 
-An dreamy art representation of the emotion sadness             |  An dreamy art representation of the emotion sadness             |  An dreamy art representation of the emotion sadness
+An dreamy art representation of the emotion sadness             |  An dreamy art representation of a person playing an instrument that makes him feel fullfilled             |  An dreamy art representation of a person playing an instrument that makes him feel fullfilled
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/images/an_dreamy_art_representation_of_the_emotion_sadness_with_3ed4eece-4f7b-427b-9b19-051020bc43ba.png)  |  ![](/images/an_dreamy_art_representation_of_the_emotion_sadness_with_3ed4eece-4f7b-427b-9b19-051020bc43ba.png)  |  ![](/images/an_dreamy_art_representation_of_the_emotion_sadness_with_3ed4eece-4f7b-427b-9b19-051020bc43ba.png)
+![](/images/an_dreamy_art_representation_of_the_emotion_sadness_with_3ed4eece-4f7b-427b-9b19-051020bc43ba.png)  |  ![](/images/an_dreamy_art_representation_of_a_person_playing_an_inst_c1311ca4-982d-4b9c-beaa-026a27a3b745.png)  |  ![](/images/an_dreamy_art_representation_of_a_person_playing_an_inst_b072a470-656e-4e83-9acb-c567affbba5f.png)
 
 gnome costume, princess, pure, holding a gift, star, snow, christmas background, dreamy art, dixit, nice colors, cute artwork, colorful drawing <br /> (Model: Stable Diffusion 1.5) | Skeleton is made of strawberries, sailboat, desert island, sea, dreamy art, dixit, surreal, fantasy background, nice colors, bright, colorful drawing <br /> (Model: Stable Diffusion 1.5) | Mouse in town, holding baloons, wearing a suit, flying castle, dreamy art, dixit, surreal, nice colors, colorful drawing, cute artwork <br /> (Model: Stable Diffusion 1.5)
 :-------------------------:|:-------------------------:|:-------------------------:
